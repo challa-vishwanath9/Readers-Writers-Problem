@@ -5,7 +5,7 @@ The Readers-Writers Problem is a Synchronization problem in which there are 2 ty
 - **READERS** - They can read data from a shared file/shared memory location, Multiple of them can access this file/memory location and read at a time.
 - **WRITERS** - They can edit the file /data in memory location.
 
-The problem of synchronization occurs when if when writer is in the file and either of the READER or another WRITER accesses the file then this  will cause caution.
+The problem of synchronization occurs when writer is in the file and either of the READER or another WRITER accesses the file then this  will cause caution.
 
 ## SOLVING SYNCHRONIZATION
 
